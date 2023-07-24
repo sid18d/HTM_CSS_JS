@@ -17,8 +17,11 @@
      {
          str = str + " ";
      }
+  
      console.log(str + "*");
-     
+  // can also change above code to :-
+  // str = str + "*";
+  // console.log(str);
  }
  
  inner(5)
